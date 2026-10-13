@@ -7,5 +7,5 @@
 - 💬 Reach me at rei.miyashironakaima@student.chaminade.edu
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=r,python,mongodb,github" />
+  <img src="https://skillicons.dev/icons?i=r,python,github" />
 </p>
